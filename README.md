@@ -1,4 +1,9 @@
-#ExampleBot
+# My Bot
+@c0untessdracula
+
+My bot is called "Countess Dracula and Friends". It is based on a ficticious remote castle in which several popular vampire characters live and tweet funny things about their lives and each other. The bot also retweets #vampire content and is able to follow back. The retweeting functionality was modified from the example code to target the #vampire hashtag while the follow back and character tweets functionalities were implemented by me.
+
+# ExampleBot
 
 This bot retweets the latest tweet using the "#mediaarts" hashtag. It attempts to retweet once per hour.
 
